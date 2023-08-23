@@ -1,8 +1,8 @@
 import { config } from "dotenv";
 config();
 
-const server = express();
 import express from "express";
+const server = express();
 import cors from "cors";
 import TaskRoutes from "./src/routes/TaskRoutes.js";
 

@@ -1,9 +1,12 @@
 import mongoose from "mongoose";
+import { config } from "dotenv";
+config();
 
 const mongooseDb = mongoose;
 
-const url = "mongodb://localhost:27017/todo";
+const url = `mongodb://${process.env.DB_HOST}:${process.env.DB_PORT}/todo`;
 
-mongooseDb.connect(url, { useNewUrlParse: true });
+console.log("url: ", url);
+mongooseDb.connect(url, { useNewUrlParser: true });
 
 export default mongooseDb;

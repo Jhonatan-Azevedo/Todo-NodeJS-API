@@ -2,7 +2,7 @@
 # Project Todo Fullstack with NodeJs+ReactJs+ReactNative by @Jhonatan-Azevedo
 
 Node Js API.
-## 🛠 Libs
+## 🛠 Libs and Frameworks
 
 Libraries used for development:
 
@@ -16,9 +16,9 @@ Libraries used for development:
 
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
-## ⚙ Run Locally
+## ⚙ How To Use
 
-Clone the project
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
 ```bash
   git clone https://github.com/Jhonatan-Azevedo/Todo-NodeJS-API.git

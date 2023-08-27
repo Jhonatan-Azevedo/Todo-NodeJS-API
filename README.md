@@ -6,15 +6,15 @@ Node Js API.
 
 The main frameworks/libraries used in the project
 
-- [Express](https://expressjs.com/pt-br/){target="_blank"}
+- [Express](https://expressjs.com/pt-br/)
 
-- [Mongoose](https://mongoosejs.com/){target="_blank"}
+- [Mongoose](https://mongoosejs.com/)
 
-- [Date-fns](https://date-fns.org/){target="_blank"}
+- [Date-fns](https://date-fns.org/)
 
-- [Nodemon](https://nodemon.io/){target="_blank"}
+- [Nodemon](https://nodemon.io/)
 
-- [dotenv](https://www.npmjs.com/package/dotenv){target="_blank"}
+- [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## ⚙ How To Use
 
@@ -60,7 +60,7 @@ I used MongoDB for database with mongoose frameword for configuration and data m
 
 Path named 'doc', has 'insomnia' file with all project requirements.
 
-[Link Documentation](https://github.com/Jhonatan-Azevedo/Todo-NodeJS-API/blob/main/doc/rotas_api_Insomnia_2023-08-16.json){target="_blank"}
+[Link Documentation](https://github.com/Jhonatan-Azevedo/Todo-NodeJS-API/blob/main/doc/rotas_api_Insomnia_2023-08-16.json)
 
 
 ## 📍 Environment Variables
@@ -84,6 +84,6 @@ Both are for database access.
 
 ## 🤘🏼 Authors
 
-[@Jhonatan-Azevedo](https://github.com/Jhonatan-Azevedo){target="_blank"}
+[@Jhonatan-Azevedo](https://github.com/Jhonatan-Azevedo)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazevedodev/){target="_blank"}
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazevedodev/)

@@ -2,9 +2,9 @@
 # Project Todo Fullstack with NodeJs+ReactJs+ReactNative by @Jhonatan-Azevedo
 
 Node Js API.
-## 🛠 Libs and Frameworks
+## 🛠 Built With
 
-Libraries used for development:
+The main frameworks/libraries used in the project
 
 - [Express](https://expressjs.com/pt-br/)
 
@@ -87,4 +87,3 @@ Both are for database access.
 [@Jhonatan-Azevedo](https://github.com/Jhonatan-Azevedo)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazevedodev/)
-
